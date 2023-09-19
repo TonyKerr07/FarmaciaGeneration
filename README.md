@@ -1,2 +1,2 @@
-# FramaciaGeneration
+# FarmaciaGeneration
 Projeto Farmácia Generation
